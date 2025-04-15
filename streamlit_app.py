@@ -3,7 +3,7 @@ import os
 from PIL import Image
 
 # --- ตั้ง path หลัก ---
-BASE_DIR = "batman_dashboard"
+BASE_DIR = "/Users/ronacsexks/Desktop/info visual/batman_dashboard"
 
 # --- หัวเรื่อง ---
 st.title("Batman Eye-Tracking Snapshots")
